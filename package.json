@@ -1,0 +1,22 @@
+{
+  "name": "react-website",
+  "version": "1.0.0",
+  "description": "This is my very fisrt React website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joy-ahmed/React-website.git"
+  },
+  "author": "Joy Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joy-ahmed/React-website/issues"
+  },
+  "homepage": "https://github.com/joy-ahmed/React-website#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
